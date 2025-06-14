@@ -33,8 +33,6 @@ Local SEO (Google My Business, local schema, NAP consistency)
 🛒 eCommerce SEO
 Conversion-focused product & category optimization
 
-Shopping feed SEO (Google Shopping), UX & CRO strategies
-
 🔗 On-Page & Off-Page SEO
 Keyword & competitor research, content structuring
 
